@@ -1,0 +1,7 @@
+send_email/variables_necessary.py
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+archives/
